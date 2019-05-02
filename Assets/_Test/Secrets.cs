@@ -1,6 +1,6 @@
 ﻿/// <summary>
 /// Secret information, do not upload your secret information to Git Hub.
-/// Should be in .gitignore
+/// I used git update-index --assume-unchanged [file]
 /// </summary>
 public class Secrets
 {
