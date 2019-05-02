@@ -1,0 +1,10 @@
+DropboxSync
+
+v1.0
+- initial release
+
+v2.0
+- Fixed NullReferece exception when running on iOS
+- Code refactoring
+- Upload feature
+- Move and Delete features
